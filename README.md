@@ -9,5 +9,5 @@ View project video here:
 
 ![](https://github.com/devdass/PLEB-TNAK-V2/blob/main/TV2_1.jpeg?raw=true)
 ![](https://github.com/devdass/PLEB-TNAK-V2/blob/main/TV2_2.jpeg?raw=true)
-![](https://github.com/devdass/PLEB-TNAK-V2/blob/main/TV2_3.jpeg?raw=true)
+![](https://raw.githubusercontent.com/devdass/PLEB-TNAK-V2/main/TV2_3.jpg)
 ![](https://github.com/devdass/PLEB-TNAK-V2/blob/main/TV2_4.jpeg?raw=true)
